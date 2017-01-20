@@ -1,6 +1,6 @@
 # CSV-File-Converter
-CSV-File-Converter is a php project to convert csv files to json and xml format, also xml to json format. It can be used as a php project in 
-web technology courses in universities.
+CSV-File-Converter is a php project to convert csv files to json and xml format, also xml to json format. It has been used as a php  project in 3 credit
+web technology course
 
 #How to use
 1. Create a database in phpmyadmin, named "file_formatter_db". Then import the given sql file in the root folder.
